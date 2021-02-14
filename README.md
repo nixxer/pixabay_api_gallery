@@ -1,3 +1,9 @@
+## How to use
+- Create an account at pixabay.com
+- Copy your api key at pixabay.com/api/docs/
+- Create the .env and use REACT_APP_PIXABAY_API_KEY=yourApiKey
+-------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
